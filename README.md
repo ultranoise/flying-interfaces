@@ -7,9 +7,10 @@ Source code and information for developing flying digital instruments based on:
 - ESP32 
 - MobmuPlat (lib Pd)
 
-This readme supposes you have a kite with an esp32 transmitting OSC data. Instructions on how to build one will be soon linkied here. 
+This readme supposes you have a kite with an esp32 transmitting OSC data. Instructions on how to build one will be soon linked here. 
 
 ![Enrique Tomas ESP32 Flying Controller](https://github.com/ultranoise/flying-interfaces/blob/master/beep_esp32.jpg)
+(ESP32 with BME280 barometric sensor and LIS3DH digital accelerometer)
 
 Software Basic Instructions:
 

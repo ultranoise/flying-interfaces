@@ -1,6 +1,6 @@
 # flying-interfaces
 
-![Image description](http://www.laboralcentrodearte.org/es/educacion/taller-de-instrumentos-musicales-digitales-voladores/leadImage_preview)
+![Enrique Tomas Flying Controller Workshop](http://www.laboralcentrodearte.org/es/educacion/taller-de-instrumentos-musicales-digitales-voladores/leadImage_preview)
 
 Source code and information for developing flying digital instruments based on:
 
@@ -8,6 +8,8 @@ Source code and information for developing flying digital instruments based on:
 - MobmuPlat (lib Pd)
 
 This readme supposes you have a kite with an esp32 transmitting OSC data. Instructions on how to build one will be soon linkied here. 
+
+![Enrique Tomas ESP32 Flying Controller](https://github.com/ultranoise/flying-interfaces/blob/master/beep_esp32.jpg)
 
 Software Basic Instructions:
 
@@ -18,4 +20,4 @@ Software Basic Instructions:
 
 
 Enrique Tomás 2020
-Use it at your own risk, no responsability is hold from its use. 
+Use this software at your own risk, no responsabilities are hold from its use. 

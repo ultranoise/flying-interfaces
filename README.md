@@ -1,4 +1,7 @@
 # flying-interfaces
+
+![Image description](http://www.laboralcentrodearte.org/es/educacion/taller-de-instrumentos-musicales-digitales-voladores/leadImage_preview)
+
 Source code and information for developing flying digital instruments based on:
 
 - ESP32 

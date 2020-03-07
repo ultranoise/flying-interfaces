@@ -7,10 +7,10 @@ Source code and information for developing flying digital instruments based on:
 - ESP32 
 - MobmuPlat (lib Pd)
 
-* Basic Instructions:
+Basic Instructions:
 
 1) install MobMuPlat in your smartphone and its development package from http://danieliglesia.com/mobmuplat/
-2) download all files at "Patches" folder from this respository and copy them to your smartphone mobmuplat folder
+2) download all files from "Patches" and copy them to your smartphone mobmuplat folder
 
 
 Enrique Tomás 2020

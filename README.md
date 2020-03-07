@@ -10,7 +10,7 @@ Source code and information for developing flying digital instruments based on:
 This readme supposes you have a kite with an esp32 transmitting OSC data. Instructions on how to build one will be soon linked here. 
 
 ![Enrique Tomas ESP32 Flying Controller](https://github.com/ultranoise/flying-interfaces/blob/master/beep_esp32.jpg)
-(ESP32 with BME280 barometric sensor and LIS3DH digital accelerometer)
+Wemos D1 Mini ESP32 with BME280 barometric sensor and LIS3DH digital accelerometer(under the ESP32)
 
 Software Basic Instructions:
 
